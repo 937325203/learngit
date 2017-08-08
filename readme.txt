@@ -8,4 +8,5 @@ Git has a mutable index called stage.
 鹿鹿小童学.你好呀.
 Creating a new branch is quick and simplen
 新conmmit
-dev1.
+dev1
+newdev1.
