@@ -4,5 +4,6 @@ hhh
 Git has a mutable index called stage.
 
 222222222222222lllllll
+<<<<<<< HEAD
 鹿鹿小童学.你好呀.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
